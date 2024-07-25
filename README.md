@@ -29,7 +29,9 @@ Access PumpHub data directly through your web browser using the following URLs:
 Simply copy and paste these URLs into your web browser, replacing any parameters in curly braces {} with actual values as needed.
 # Future plans
 1.logup/login/logout support
+
 2.buying/selling support
+
 3.wallet connection 
 # Support
 If you benefitted from the project, show us some support by giving us a star ⭐. Open source is awesome!
