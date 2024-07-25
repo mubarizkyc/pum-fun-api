@@ -27,3 +27,6 @@ Access PumpHub data directly through your web browser using the following URLs:
    https://pumphub-dsh09slzg-mubarizs-projects-34801bc9.vercel.app/coins?offset=0&limit=10&sort=last_trade_timestamp&order=DESC&includeNsfw=false
 
 Simply copy and paste these URLs into your web browser, replacing any parameters in curly braces {} with actual values as needed.
+
+# Support
+If you benefitted from the project, show us some support by giving us a star ⭐. Open source is awesome!
