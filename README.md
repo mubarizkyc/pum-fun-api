@@ -11,7 +11,7 @@ Access PumpHub data directly through your web browser using the following URLs:
 
 
 2. Get Latest Trades:
-   https://pumphub-gm6smarjf-mubarizs-projects-34801bc9.vercel.app/transactions/last-one
+   https://pumphub-gm6smarjf-mubarizs-projects-34801bc9.vercel.app/transaction/last-one
 
 3. Get Latest Coins:
    https://pumphub-gm6smarjf-mubarizs-projects-34801bc9.vercel.app/meme-coin/last-one
