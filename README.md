@@ -1,6 +1,6 @@
 # pumphub
 Your gateway to pump.fun solana
-# PumpHub API Proxy - Simple Browser Access Guide
+# pump.fun api provider  - Simple Browser Access Guide
 
 Access PumpHub data directly through your web browser using the following URLs:
 
