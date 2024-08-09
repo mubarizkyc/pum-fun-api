@@ -33,5 +33,8 @@ Simply copy and paste these URLs into your web browser, replacing any parameters
 2.buying/selling support
 
 3.wallet connection 
-# Support
-If you benefitted from the project, show us some support by giving us a star ⭐. Open source is awesome!
+# Support 🤎
+
+```console
+5BvrQfDzwjFFjpaAys2KA1a7GuuhLXKJoCWykhsoyHet
+```
